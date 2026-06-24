@@ -8,4 +8,4 @@ Este repositorio contiene mis soluciones y modificaciones a los proyectos del cu
 - **Soluciones y modificaciones:** La lógica implementada, la resolución de los problemas matemáticos/algorítmicos y los ajustes al código para cumplir con los requisitos de las tareas son de mi autoría.
 
 # Contenido
-Exercise 2.1 (Linear networks collapse)
+Ejercicios del curso
